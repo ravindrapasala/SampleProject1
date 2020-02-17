@@ -6,7 +6,7 @@ public class Reverse {
 
 	public static void main(String[] args) {
 		
-		 Scanner input = new Scanner (System.in);
+		 Scanner nput = new Scanner (System.in);
 		  System.out.println("Enter value");
 	        String word = input.next();
 	        String r = "";
